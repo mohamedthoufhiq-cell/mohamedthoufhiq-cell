@@ -67,4 +67,10 @@ A healthcare technology concept focused on clinical evidence intelligence, priva
 
 [LinkedIn](https://www.linkedin.com/in/mohamed-thoufhiq-775934328) · [Email](mailto:mohamedthoufhiq@gmail.com)
 
+## 🌐 Portfolio
+
+Explore my projects, technical skills and development journey:
+
+[**Visit My Portfolio →**](https://thoufhiq-portfolio.vercel.app/)
+
 *Building. Learning. Solving.*
