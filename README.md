@@ -33,8 +33,7 @@ A technical case study documenting quantum circuit experiments, benchmark verifi
 ### Innovation DNA — The Student Operating System
 An AI-powered student ecosystem for tracking achievements, building skills, and discovering career opportunities. **In development.**
 
-### MEDSEAL
-A healthcare technology concept focused on clinical evidence intelligence, privacy, and trust. **Concept stage.**
+
 
 ---
 
